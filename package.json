@@ -5,8 +5,9 @@
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
-    "deploy": "hexo deploy",
-    "server": "hexo server"
+    "deploy": "pnpm run build && wrangler deploy",
+    "server": "hexo server",
+    "preview": "pnpm run build && wrangler dev"
   },
   "hexo": {
     "version": "7.3.0"
@@ -31,5 +32,8 @@
     "hexo-util": "^3.3.0",
     "hexo-wordcount": "^6.0.1",
     "medium-zoom": "^1.1.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.97.0"
   }
 }
