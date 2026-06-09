@@ -31,20 +31,20 @@ nav:
       item:
         - name: 博客
           link: https://blog.904002.xyz/
-          icon: https://imgbed.904002.xyz/file/blog/icon/blog.svg
+          icon: https://imgbed.904002.xyz/file/img/blog/icon/blog.svg
 
         - name: 图床
           link: https://imgbed.904002.xyz/
-          icon: https://imgbed.904002.xyz/file/blog/icon/图床.svg
+          icon: https://imgbed.904002.xyz/file/img/blog/icon/图床.svg
 
         - name: 评论
           link: https://waline.blog.904002.xyz/
-          icon: https://imgbed.904002.xyz/file/blog/icon/评论.svg
+          icon: https://imgbed.904002.xyz/file/img/blog/icon/评论.svg
     - title: 项目
       item:
         - name: 飞牛NAS
           link: https://zxyzzz.fnos.net/
-          icon: https://imgbed.904002.xyz/file/blog/icon/NAS.svg
+          icon: https://imgbed.904002.xyz/file/img/blog/icon/fnos/fnos1.svg
           hover_text: "账密z-blog"
       
 
@@ -149,7 +149,7 @@ favicon: /blog.ico
 
 # Avatar (头像)
 avatar:
-  img: https://imgbed.904002.xyz/file/blog/avatar/1755591276109_头像.jpg
+  img: https://imgbed.904002.xyz/file/img/blog/avatar/.webp
   effect: false
 
 # Disable all banner image
@@ -255,10 +255,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: https://imgbed.904002.xyz/file/blog/zanshang/1755702476866_微信.jpg
+    - img: https://imgbed.904002.xyz/file/img/blog/zanshang/微信.webp
       link:
       text: 微信
-    - img: https://imgbed.904002.xyz/file/blog/zanshang/1755702592852_支付宝.jpg
+    - img: https://imgbed.904002.xyz/file/img/blog/zanshang/支付宝.webp
       link:
       text: 支付宝
 
@@ -798,7 +798,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://imgbed.904002.xyz/file/blog/avatar/1755591276109_头像.jpg # 自定义加载动画头像
+  avatar: https://imgbed.904002.xyz/file/img/blog/avatar/.webp # 自定义加载动画头像
 
 # aside (侧边栏)
 # --------------------------------------
@@ -823,8 +823,8 @@ aside:
     content: 欢迎来看我的博客鸭~
   card_fnos:
     enable: true
-    face: https://imgbed.904002.xyz/file/blog/others/hello_白_.png
-    backFace: https://imgbed.904002.xyz/file/blog/others/hello_黑_.png
+    face: https://imgbed.904002.xyz/file/img/blog/others/hello_白_.webp
+    backFace: https://imgbed.904002.xyz/file/img/blog/others/hello_黑_.webp
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
