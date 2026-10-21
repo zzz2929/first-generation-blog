@@ -19,7 +19,7 @@
         - name: Xiaomi 15 Pro 白色
           specification: 骁龙8至尊版移动平台 16G / 512Gb + 16GB
           description: 手感对比上一代提升很大，屏幕显示效果好、性能强劲。(但是不知道因为电池还是后壳工艺的问题，导致很多人后壳变形)
-          image: https://imgbed.904002.xyz/file/img/blog/equipment/Xiaomi_15_Pro.webp
+          image: https://imgbed.904002.xyz/file/img/blog/equipment/xiaomi_15_Pro.webp
           link: https://www.mi.com/prod/xiaomi-15-pro/specs
         
     - title: 出行
@@ -42,5 +42,5 @@
         - name: 小米小爱音箱 Pro
           specification: 黑色
           description: WiFi+蓝牙+红外，可当蓝牙Mesh网关用。
-          image: https://imgbed.904002.xyz/file/img/blog/equipment/aiSpeaker_Pro.webp
+          image: https://imgbed.904002.xyz/file/img/blog/equipment/小米小爱音箱_Pro.webp
           link: https://www.mi.com/aispeaker-pro

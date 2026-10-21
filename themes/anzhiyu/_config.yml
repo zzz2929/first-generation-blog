@@ -39,7 +39,7 @@ nav:
 
         - name: 评论
           link: https://waline.blog.904002.xyz/
-          icon: https://imgbed.904002.xyz/file/img/blog/icon/评论.svg
+          icon: https://imgbed.904002.xyz/file/img/blog/icon/waline.webp
     - title: 项目
       item:
         - name: 飞牛NAS
@@ -149,7 +149,7 @@ favicon: /blog.ico
 
 # Avatar (头像)
 avatar:
-  img: https://imgbed.904002.xyz/file/img/blog/avatar/.webp
+  img: https://imgbed.904002.xyz/file/img/blog/avatar/zzz.webp
   effect: false
 
 # Disable all banner image
@@ -798,7 +798,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://imgbed.904002.xyz/file/img/blog/avatar/.webp # 自定义加载动画头像
+  avatar: https://imgbed.904002.xyz/file/img/blog/avatar/zzz.webp # 自定义加载动画头像
 
 # aside (侧边栏)
 # --------------------------------------

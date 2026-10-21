@@ -64,7 +64,7 @@
     game_tips: 爱好游戏
     game_title: 原神
     game_uid: "UID: 195433728"
-    game_bg: https://imgbed.904002.xyz/file/img/blog/background/game/yuanshen.webp
+    game_bg: https://imgbed.904002.xyz/file/img/blog/background/game/原神.webp
   # game2:
   #   game_tips: 爱好游戏
   #   game_title: 崩铁
@@ -95,7 +95,7 @@
   like:
     like_tips: 关注偏好
     like_title: 数码科技
-    like_bg: https://imgbed.904002.xyz/file/img/blog/background/1755702832452_科技.jpg
+    like_bg: https://imgbed.904002.xyz/file/img/blog/background/科技.webp
     like_bottom: 手机、电脑软硬件
   music:
     music_tips: 音乐偏好

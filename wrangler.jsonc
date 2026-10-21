@@ -1,0 +1,8 @@
+{
+	"compatibility_date": "2026-06-05",
+	"name": "first-generation-blog",
+	"assets": {
+		"directory": "./public",
+		"binding": "ASSETS"
+	}
+}

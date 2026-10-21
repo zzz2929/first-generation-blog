@@ -52,13 +52,13 @@
   description: 生活琐事
   top_link: /album
   top_btn_text: 返回
-  top_background: https://imgbed.904002.xyz/file/img/blog/album/life/七彩云.webp
-  cover: https://imgbed.904002.xyz/file/img/blog/album/life/七彩云.webp
+  top_background: https://imgbed.904002.xyz/file/img/blog/album/daily/七彩云.webp
+  cover: https://imgbed.904002.xyz/file/img/blog/album/daily/七彩云.webp
   album_list:
     - date: 2023-09-01
       content: 七彩祥云
       image:
-        - https://imgbed.904002.xyz/file/img/blog/album/life/七彩云.webp
+        - https://imgbed.904002.xyz/file/img/blog/album/daily/七彩云.webp
 
 - class_name: 与朋友们的日常
   path_name: /friendDaily
@@ -66,16 +66,16 @@
   description: 与‘狐朋狗友’们的一些生活日常与有趣沙雕事。
   top_link: /album
   top_btn_text: 返回
-  top_background: https://imgbed.904002.xyz/file/img/blog/album/friends/聚会.webp
-  cover: https://imgbed.904002.xyz/file/img/blog/album/friends/聚会.webp
+  top_background: https://imgbed.904002.xyz/file/img/blog/album/friend/跨年聚会.webp
+  cover: https://imgbed.904002.xyz/file/img/blog/album/friend/跨年聚会.webp
   album_list:
     - date: 2025-06-16
       content: 偷感
       from: sqnu-516
       image:
-        - https://imgbed.904002.xyz/file/img/blog/album/friends/偷感.webp
+        - https://imgbed.904002.xyz/file/img/blog/album/friend/偷感.webp
     - date: 2024-12-31
       content: 聚会
       from: sqnu-516
       image:
-        - https://imgbed.904002.xyz/file/img/blog/album/friends/聚会.webp
+        - https://imgbed.904002.xyz/file/img/blog/album/friend/跨年聚会.webp
